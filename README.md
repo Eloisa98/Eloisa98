@@ -32,11 +32,8 @@
   - ⚡ Além disso, adoro viajar para lugares novos, sair para comer e passar tempo de qualidade com minha família. São momentos que valorizo e que me ajudam a recarregar as energias. \o/
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nrzxvsa6l5yakzpocljqew5lda&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eloisa-silva-dev/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eloisa.1998.silva@gmail.com)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Eloisa98&show_icons=true&theme=gotham)
