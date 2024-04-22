@@ -7,13 +7,6 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-<!--- snake --->
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 <br>
 
 <!-- Presentation -->
