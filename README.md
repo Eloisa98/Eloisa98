@@ -7,8 +7,13 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<!--- snake --->
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 <br>
-
 <!-- Presentation -->
 <p>
   Olá 👋, Eu sou a Eloisa! Uma apaixonada estudante de ADS.
@@ -27,11 +32,14 @@
 </details>
 
 <!-- Links -->
+<div  align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eloisa-silva-dev/)
-
+  
+</div>
 <!-- GithubStats -->
-<div>
-<div>
+
+<div  align="center">
   <a href="https://github.com/Eloisa98">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Eloisa98&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eloisa98&layout=compact&langs_count=7&theme=react" />
