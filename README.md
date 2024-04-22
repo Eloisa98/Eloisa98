@@ -19,7 +19,7 @@
   Olá 👋, Eu sou a Eloisa! Uma apaixonada estudante de ADS.
 
   - 👩🏽‍💻 Atualmente, estou estudando Análise e Desenvolvimento de Sistemas no Instituto Infnet.
-  - 🔭 Estou buscando uma oportunidade no campo da tecnologia. Sou apaixonada por esse universo e estou determinada a construir minha carreira nele..
+  - 🔭 Estou buscando uma oportunidade no campo da tecnologia. Sou apaixonada por esse universo e estou determinada a construir minha carreira nele.
 </p>
 
 <!-- Dropdown -->
