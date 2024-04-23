@@ -7,13 +7,7 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-<!--- snake --->
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-<br>
+
 <!-- Presentation -->
 <p>
   Olá 👋, Eu sou a Eloisa! Uma apaixonada estudante de ADS.
@@ -52,6 +46,14 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 </div>
+
+<!--- snake --->
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+<br>
 
 <!-- Portfolio -->
 ## Portfolio:
