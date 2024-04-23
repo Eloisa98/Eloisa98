@@ -63,7 +63,7 @@
 
 
 <!-- Portfolio -->
-## Portfólios:
+## Portfólio:
 - [Javascript - Dedicado aos estudos da linguagem](https://github.com/Eloisa98/JavaScript---Estudos)
   
 
