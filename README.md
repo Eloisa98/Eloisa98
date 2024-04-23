@@ -33,19 +33,20 @@
 </div>
 <!-- GithubStats -->
 
-<div  align="center">
-
-    
+<div  align="center" width="170em">
+  
   ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Eloisa98&show_icons=true&theme=dracula&count_private=true)
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eloisa98&layout=compact&langs_count=7&theme=react" />
- 
+  <img  height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eloisa98&layout=compact&langs_count=7&theme=react" />
+</div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-</div>
+
+
 
 <!-- Portfolio -->
 ## Portfolio:
