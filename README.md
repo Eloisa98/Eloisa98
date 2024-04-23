@@ -47,14 +47,6 @@
 </div>
 </div>
 
-<!--- snake --->
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-<br>
-
 <!-- Portfolio -->
 ## Portfolio:
 - [Javascript - Dedicado aos estudos da linguagem](https://github.com/Eloisa98/JavaScript---Estudos)
