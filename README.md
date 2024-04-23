@@ -33,10 +33,10 @@
 </div>
 <!-- GithubStats -->
 
-<div  align="center" width="170em">
+<div  align="center">
   
-  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Eloisa98&show_icons=true&theme=dracula&count_private=true)
-  <img  height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eloisa98&layout=compact&langs_count=7&theme=react" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Eloisa98&show_icons=true&theme=dracula&count_private=true"/>
+  <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eloisa98&layout=compact&langs_count=7&theme=react" />
 </div>
 
   <div style="display: inline_block"><br>
