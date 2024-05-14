@@ -20,7 +20,7 @@
 <details>
   <summary>👩🏽‍💻 Mais sobre mim</summary>
 
-  - 💬 Desenvolvedora Java iniciante, apaixonada por tecnologia e comprometida em criar soluções inovadoras. Graduanda em Análise e Desenvolvimento de Sistemas, com experiência comprovada em implementar melhorias significativas no código fonte e solucionar bugs de forma eficaz. Possuo habilidades básicas/intermediárias em Java, Spring Boot, e Linux, além de expertise em metodologias ágeis como Scrum. Estou constantemente buscando aprender e crescer, sempre disposta a colaborar em equipe e superar desafios.
+  - 💬 Desenvolvedora Java iniciante, apaixonada por tecnologia e comprometida em criar soluções inovadoras. Graduanda em Análise e Desenvolvimento de Sistemas, com experiência comprovada em implementar melhorias significativas no código fonte e solucionar bugs de forma eficaz. Possuo habilidades básicas em Java, Spring Boot, e Linux, além de expertise em metodologias ágeis como Scrum. Estou constantemente buscando aprender e crescer, sempre disposta a colaborar em equipe e superar desafios.
     
   - ⚡ Além disso, adoro viajar para lugares novos, sair para comer e passar tempo de qualidade com minha família. São momentos que valorizo e que me ajudam a recarregar as energias. \o/
 </details>
