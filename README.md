@@ -6,7 +6,7 @@ Tools & Frameworks
 <div> <img alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> </div>
 Operating Systems
 <div> <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> </div>
-📁 Portfólio:
-- [Javascript - Dedicado aos estudos da linguagem](https://github.com/Eloisa98/JavaScript---Estudos)
+📁 Portfólio:\
+[Javascript - Dedicado aos estudos da linguagem](https://github.com/Eloisa98/JavaScript---Estudos)
   
 
