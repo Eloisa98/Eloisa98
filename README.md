@@ -7,6 +7,6 @@ Tools & Frameworks
 Operating Systems
 <div> <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> </div>
 📁 Portfólio:
-
-    JavaScript - Estudos e Projetos
+- [Javascript - Dedicado aos estudos da linguagem](https://github.com/Eloisa98/JavaScript---Estudos)
+  
 
